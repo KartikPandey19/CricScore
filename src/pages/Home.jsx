@@ -1,11 +1,11 @@
 import Header from "../components/Header"
-import HomeCard from "../components/HomeCards"
+import HomeCards from "../components/HomeCards"
 const Home =  ()=>{
 
     return (
         <>
         <Header />
-        <HomeCard />
+        <HomeCards />
         </>
     )
 }
